@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kakumanu Ajit Babu  
 
-🎯 **Data Scientist | AI Enthusiast | Full-Stack & Flutter Developer | Innovator**  
+🎯 **Data Scientist | AI Enthusiast | Full-Stack & Flutter Developer | Innovator**
 
 ---
 
