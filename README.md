@@ -67,7 +67,7 @@
 |---------|-------------|------------|-------|
 | 🚕 **GoTogether App** | Smart travel coordination platform with real-time features | Flutter, Node.js, React, Firebase | [Live Demo](https://gotogether-50d6e.web.app) |
 | 🤖 **AI Trading Bot** | Intelligent stock trading automation with ML predictions | Python, ML/AI, SmartAPI, Data Analytics | [Repository](https://github.com/nani26-begin) |
-| 🖥️ **Resume Portfolio** | Apple-inspired animated portfolio with smooth interactions | HTML5, CSS3, JavaScript, GSAP | [View Portfolio](https://l1nq.com/Ajit-projects) |
+| 🖥️ **Resume Portfolio** | Apple-inspired animated portfolio with smooth interactions | HTML5, CSS3, JavaScript, GSAP | [View Portfolio](https://ajitresume.lovable.app/) |
 
 </div>
 
@@ -83,7 +83,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nani26-begin)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@HappyTotsTime)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kakumanuajitbabu@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://l1nq.com/Ajit-projects)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ajitresume.lovable.app/)
 
 </div>
 
