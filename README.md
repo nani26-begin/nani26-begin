@@ -67,7 +67,7 @@
 |---------|-------------|------------|-------|
 | 🚕 **GoTogether App** | Smart travel coordination platform with real-time features | Flutter, Node.js, React, Firebase | [Live Demo](https://gotogether-50d6e.web.app) |
 | 🤖 **AI Trading Bot** | Intelligent stock trading automation with ML predictions | Python, ML/AI, SmartAPI, Data Analytics | [Repository](https://github.com/nani26-begin) |
-| 🖥️ **Resume Portfolio** | Apple-inspired animated portfolio with smooth interactions | HTML5, CSS3, JavaScript, GSAP | [View Portfolio](https://ajitresume.lovable.app/) |
+| 🖥️ **Resume Portfolio** | Apple-inspired animated portfolio with smooth interactions | HTML5, CSS3, JavaScript, GSAP | [View Portfolio](https://nani26-begin.github.io/my-portfolio/) |
 
 </div>
 
